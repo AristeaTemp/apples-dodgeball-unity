@@ -1,8 +1,6 @@
 # Τα Μήλα ("The Apples") – Unity 3D Game
 
-A 3D arena game made in **Unity (C#)** for the *Video Game Development* course, Department of Computer Engineering & Informatics, University of Patras. It is a digital take on the traditional Greek playground game "Μήλα" (a form of dodgeball), played against zombies.
-
-Team of three. Each of us worked as programmer, game designer and artist, using Unity Version Control and making small changes to the project in turns.
+A 3D arena game made in **Unity (C#)**, a digital take on the traditional Greek playground game "Μήλα" (a form of dodgeball), played against zombies, for the *Video Game Development* course, Department of Computer Engineering & Informatics, University of Patras. 
 
 ![Level 1](docs/screenshots/level1_gameplay.jpg)
 
