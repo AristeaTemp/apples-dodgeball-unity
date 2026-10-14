@@ -62,4 +62,11 @@ This repository contains the **scripts, scenes and the ball prefab** only. The 3
 - No automated tests. The focus was gameplay logic, not polish.
 
 ## Team
-Group project (team of three).
+
+| Name | GitHub |
+|---|---|
+| Aristea Tempelopoulou | [@AristeaTemp](https://github.com/AristeaTemp) |
+| Anna-Gilda Mazaraki | [@Gildamaz](https://github.com/Gildamaz) |
+| Despoina Papadopoulou | [@despinapap](https://github.com/despinapap) |
+
+Three-person team project for the course "Videogame development" (University of Patras)
